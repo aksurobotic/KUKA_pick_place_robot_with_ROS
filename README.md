@@ -9,11 +9,6 @@
 <img src="figures/1-intro/gazebo_intro_v2.png" alt="" width="51%"><img src="figures/1-intro/moveit_intro_v3.png" alt="" width="47.1%">
 </p>
 
-<p align="center">
-<b>Salman Hashmi</b>
-<br>
-<a href="mailto:sah517@g.harvard.edu" target="_top">sah517@g.harvard.edu</a>
-</p>
 
 ------------
 
@@ -47,13 +42,7 @@
 
 <a name="1.0"></a>
 ### 1. Introduction
-This project originated from Udacity's [Robotic arm - Pick & Place project](https://github.com/udacity/RoboND-Kinematics-Project), which, in turn is based on the [**Amazon** Robotics Challenge](https://www.amazonrobotics.com/#/roboticschallenge) sponsored by Amazon Robotics LLC.
 
-<p align="center">
-<img src="figures/1-intro/amazon_robo_arm.png" alt="" width="53%">
-<br>
-<sup><b>Fig. 1.1&nbsp;&nbsp;A robotic arm shelving products in an Amazon fulfillment center</b></sup>
-</p>
 
 ##### Objective
 Commercially viable automated picking and stowing in unstructured environments, like picking products off shelves and putting them into shipping boxes, still remains a difficult challenge. The goal of the ARC is to perform simplified versions of the general task of picking and stowing items on shelves. As per *ARC Rules*: "The Challenge combines object recognition, pose recognition, grasp planning, compliant manipulation, motion planning, task planning, task execution, and error detection and recovery". 
